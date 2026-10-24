@@ -1,0 +1,6 @@
+{
+  "name": "동환 ♥ 나경의 이탈리아 신혼여행 플래너",
+  "description": "2027 동환 ♥ 나경 이탈리아 신혼여행 10박 11일(로마·피렌체·베네치아) 마스터 플래너: 대시보드, 전체 일정, 예약 및 숙소 허브, 예산 관리, 체크리스트, 장소 라이브러리, 이동 경로",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
